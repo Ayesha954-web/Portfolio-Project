@@ -9,7 +9,7 @@
 - blue purple theme
 - Vertical full-page sections with scroll-snap
 - Fixed navbar with anchor links
-- Simple cards, about, and contact form (client-side only)
+- Home, skills, projects, about and contact section
 
 ## Run Locally
 - Clone the  repo-- https://github.com/your-username/portfolio.git
