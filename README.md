@@ -1,14 +1,21 @@
 #  Portfolio (React + Vite)
-
-## Run
-```bash
-npm install
-npm start   # or: npm run dev
-```
-Then open the printed localhost URL (usually http://localhost:5173).
+##Tech Stack
+- React (Frontend)
+- Framer Motion (Animations)
+- React Icons (Icons)
+- CSS3 (Custom styling)
 
 ## Features
 - blue purple theme
 - Vertical full-page sections with scroll-snap
 - Fixed navbar with anchor links
 - Simple cards, about, and contact form (client-side only)
+
+## Run Locally
+- Clone the  repo-- https://github.com/your-username/portfolio.git
+- Navigate to /cd portfolio
+- Install all react dependencies in terminal
+```bash
+npm install
+npm start   # or: npm run dev
+```
