@@ -1,5 +1,5 @@
 #  Portfolio (React + Vite)
-##Tech Stack
+## Tech Stack
 - React (Frontend)
 - Framer Motion (Animations)/React Icons (Icons)
 - Javascript
