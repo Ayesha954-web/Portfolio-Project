@@ -4,6 +4,7 @@
 - Framer Motion (Animations)/React Icons (Icons)
 - Javascript
 - CSS3 (Custom styling)
+======
 
 ## Features
 - blue purple theme
@@ -19,3 +20,4 @@
 npm install
 npm start   # or: npm run dev
 ```
+=======
